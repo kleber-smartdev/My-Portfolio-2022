@@ -24,6 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Contribute, Fork it, Share it!
-https://kleberux.com/
-<br>
 😉🚀
